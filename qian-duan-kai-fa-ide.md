@@ -18,8 +18,7 @@
 
 * [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN)，你懂得
 
-* [Material Theme](https://github.com/equinusocio/material-theme)  
-  Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+* [Material Theme](https://github.com/equinusocio/material-theme) Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
 ## [Atom](https://atom.io/)
 
