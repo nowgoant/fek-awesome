@@ -20,9 +20,5 @@
 
 ## 招聘
 
-[与“丫”共“舞”](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
-
-
-
-
+* [与“丫”共“舞”](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
 
