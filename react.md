@@ -37,9 +37,7 @@
 ### 王沛老师视频
 
 * [QCon2015大会的React技术分享](http://www.infoq.com/cn/presentations/pracitise-of-reactjs)
-* [React入门](http://www.imooc.com/learn/504)
-  讲师
-  [@Materliu刘炬光](https://github.com/materliu)
+* [React入门](http://www.imooc.com/learn/504)讲师[@Materliu刘炬光](https://github.com/materliu)
 
 ### 更多参考资料
 
