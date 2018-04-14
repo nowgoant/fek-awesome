@@ -24,7 +24,7 @@
 * [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 * [深入浅出React（五）：使用Flux搭建React应用程序架构](http://www.infoq.com/cn/articles/react-flux)
 
-## ＃王沛老师视频
+### 王沛老师视频
 
 * [QCon2015大会的React技术分享](http://www.infoq.com/cn/presentations/pracitise-of-reactjs)
 * [React入门](http://www.imooc.com/learn/504)
