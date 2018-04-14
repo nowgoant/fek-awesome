@@ -83,7 +83,7 @@
 * [WebSqlSync](https://github.com/orbitaloop/WebSqlSync)
   Synchronize a local WebSQL DB to a server
 
-12.正则表达式
+### 12.正则表达式
 
 * [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
   JavaScript Regular expressions made easy
