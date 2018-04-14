@@ -1,4 +1,4 @@
-# 导航
+## 导航
 
 * [前端代码规范](/qian-duan-dai-ma-gui-fan.md)
 * [前端开发IDE](/qian-duan-kai-fa-ide.md)
@@ -17,9 +17,10 @@
 * [Front-end-Web-Development-Interview-Question](/front-end-web-development-interview-question.md)
 * [机器学习](/ji-qi-xue-xi.md)
 * [其他](/qi-ta.md)
-* [与“丫”共“舞”](https://nowgoant.gitbooks.io/d2notes/zhao-pin.html)
 
-### 招聘
+## 招聘
+
+[与“丫”共“舞”](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
 
 
 
