@@ -1,4 +1,4 @@
-1.Scroll
+### 1.Scroll
 
 * [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js)
   Easy scroll animations for web and mobile browsers.
@@ -7,18 +7,18 @@
 * [syncscroll.js](https://github.com/asvd/syncscroll)
   Sync scroll
 
-2.Chart
+### 2.Chart
 
 * [awesome-d3](https://github.com/wbkd/awesome-d3)
 * [Circular canvas loader](http://codepen.io/pimskie/pen/rtijd)
 * [DwtHr](http://codepen.io/ZetaHunter/pen/DwtHr)
 
-3.Drag and drop
+### 3.Drag and drop
 
 * [dragula](https://github.com/bevacqua/dragula)
   Drag and drop so simple it hurts
 
-4.animations
+### 4.Animations
 
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js)
   Javascript library to create physics-based CSS animations
@@ -46,9 +46,9 @@
 * [剪切](https://github.com/jwagner/smartcrop.js/)
   剪切图片中主要内容
 * [grade](https://github.com/benhowdle89/grade)
-  提取图片主题色，并生成过渡的渐变  -
+  提取图片主题色，并生成过渡的渐变  -
   [gradients](https://github.com/sarcadass/granim.js)
-  渐变颜色  -
+  渐变颜色  -
   [guetzli](https://github.com/google/guetzli)
   Google，Perceptual JPEG encoder
 
@@ -98,12 +98,12 @@
 * [lave](https://github.com/jed/lave)
   Why not just use JSON.stringify?
 
-15.用户行为跟踪  
+15.用户行为跟踪
 
 * [fingerprintJS](https://github.com/Valve/fingerprintJS)
   Anonymous browser fingerprint
 
-16.用户指引  
+16.用户指引
 
 * [driver.js](https://github.com/kamranahmedse/driver.js)
   A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -112,6 +112,5 @@
 
 ### 
 
-  
 
 
