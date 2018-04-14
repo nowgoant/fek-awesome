@@ -29,6 +29,7 @@
 
 * [awesome-atom](https://github.com/mehcode/awesome-atom)
   A curated list of delightful Atom packages and resources.
+* [webstorm](http://www.jetbrains.com/webstorm/)
 
-3.[webstorm](http://www.jetbrains.com/webstorm/)
+
 
