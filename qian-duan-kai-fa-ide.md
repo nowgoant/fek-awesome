@@ -3,16 +3,15 @@
 * 
 
 
-## 
-
 ## [Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)插件：
 
 * [Package Control](https://packagecontrol.io/packages/Package Control)  
   插件包管理（安装，查询，卸载）
 
-* [Emmet](https://packagecontrol.io/packages/Emmet)支持
-  [zen Coding](http://www.zjgsq.com/1062.html)
+* [Emmet](https://packagecontrol.io/packages/Emmet)支持  
+  [zen Coding](http://www.zjgsq.com/1062.html)  
   快速编写HTML/CSS
+
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
   sidebar的扩展，增加（新建，新文件夹，打开当期文件位置等等）
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
