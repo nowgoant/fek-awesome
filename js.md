@@ -60,7 +60,7 @@
   A lightweight library for manipulating and animating SVG
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 
-9.滑动组件
+### 9.滑动组件
 
 * [Swiper](https://github.com/nolimits4web/Swiper)
   Most modern mobile touch slider with hardware accelerated transitions
