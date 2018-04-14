@@ -1,7 +1,6 @@
-* 
-  1.[Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)插件：
+* [Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)插件：
 
-  * [Package Control](https://packagecontrol.io/packages/Package%20Control)
+  * [Package Control](https://packagecontrol.io/packages/Package Control)
     插件包管理（安装，查询，卸载）
   * [Emmet](https://packagecontrol.io/packages/Emmet)
     支持
@@ -19,7 +18,7 @@
   * 代码格式工具
     [Tag](https://packagecontrol.io/packages/Tag)
     只适用于HTML/XML;
-    [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
+    [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS Prettify)
     见闻知意了，依赖于Node
   * [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN)
     ，你懂得
