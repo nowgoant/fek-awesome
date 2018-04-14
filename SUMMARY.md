@@ -7,6 +7,7 @@
 * [前端知识自我修养](qian-duan-zhi-shi-zi-wo-xiu-yang.md)
 * [CSS](css.md)
 * [JS](js.md)
+* [React](react.md)
 * [Node.js Utility](dong-hua.md)
 * [XSS](xss.md)
 * [前端单元测试工具](qian-duan-dan-yuan-ce-shi-gong-ju.md)
@@ -16,5 +17,4 @@
 * [Frontend Boilerplate](frontend-boilerplate.md)
 * [Front-end-Web-Development-Interview-Question](front-end-web-development-interview-question.md)
 * [机器学习](ji-qi-xue-xi.md)
-* [其他](qi-ta.md)
 
