@@ -21,7 +21,8 @@
 
 * [re-resizable](https://github.com/nowgoant/re-resizable) 重置大小，支持旋转
 
-* 
+* [react-rnd](https://github.com/nowgoant/react-rnd) A resizable and draggable and rotate component for React，react-draggable和re-resizable组合
+
 * ### 王沛老师的React专栏文章
 * [《深入浅出React（一）：React的设计哲学 - 简单之美》](http://www.infoq.com/cn/articles/react-art-of-simplity)
 
