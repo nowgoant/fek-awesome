@@ -21,10 +21,8 @@
 
 * [Awesome-javascript](https://github.com/sorrycc/awesome-javascript)收集了很多适用、流行库，英文版，可惜没有中文
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)深入介绍的作用域，闭包，异步，性能,ES6等等
-* [Awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-  node插件集合
-* [Front-End-Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
-  大就“任性”
+* [Awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)node插件集合
+* [Front-End-Dev](https://github.com/dypsilon/frontend-dev-bookmarks)大就“任性”
 * [FrontEnd-stuff](https://github.com/moklick/frontend-stuff)
 * [awesome](https://github.com/sindresorhus/awesome)
   一个世界
