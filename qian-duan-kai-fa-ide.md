@@ -16,10 +16,9 @@
 
 * 代码格式工具[Tag](https://packagecontrol.io/packages/Tag)只适用于HTML/XML;[HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS Prettify)见闻知意了，依赖于Node
 
-* [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN)  
-  ，你懂得
+* [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN)，你懂得
 
-* [Material Theme](https://github.com/equinusocio/material-theme)
+* [Material Theme](https://github.com/equinusocio/material-theme)  
   Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
 ## [Atom](https://atom.io/)
