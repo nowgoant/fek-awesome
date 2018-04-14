@@ -22,3 +22,9 @@
 
 * [与“丫”共“舞”](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
 
+
+
+## 文档的[Github地址](https://github.com/nowgoant/d2notes)
+
+
+
