@@ -12,9 +12,7 @@
   React Components that Implement Google's Material Design.
 * [React-canvas](https://github.com/Flipboard/react-canvas)
   High performance rendering for React components
-* [Redux](https://github.com/rackt/redux)
-  Predictable state container for JavaScript apps
-  [http://redux.js.org](http://redux.js.org/)
+* [Redux](https://github.com/rackt/redux)Predictable state container for JavaScript apps[http://redux.js.org](http://redux.js.org/)
 * [React Table](http://react-table.js.org) - A lightweight, fast and extendable datagrid for React [http://react-table.js.org](http://react-table.js.org/)
 
 * [react-draggable](https://github.com/nowgoant/react-draggable) 拖拽，支持对齐辅助线和吸附边缘，键盘方向键移动，仿sketch
