@@ -19,6 +19,8 @@
 
 * [react-draggable](https://github.com/nowgoant/react-draggable) 拖拽，支持对齐辅助线和吸附边缘，键盘方向键移动，仿sketch
 
+* [re-resizable](https://github.com/nowgoant/re-resizable) 重置大小，支持旋转
+
 * 
 * ### 王沛老师的React专栏文章
 * [《深入浅出React（一）：React的设计哲学 - 简单之美》](http://www.infoq.com/cn/articles/react-art-of-simplity)
