@@ -28,7 +28,7 @@
 * [clipboard](https://github.com/zenorocha/clipboard.js)
   Modern copy to clipboard. No Flash. Just 2kb
 
-6.金融
+### 6.金融
 
 * [accounting.js](https://github.com/openexchangerates/accounting.js)
   A lightweight JavaScript library for number, money and currency formatting
