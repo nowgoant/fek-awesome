@@ -1,4 +1,8 @@
-[Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)插件：
+## Visual Studio Code
+
+  
+
+## [Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)插件：
 
 * [Package Control](https://packagecontrol.io/packages/Package Control)
   插件包管理（安装，查询，卸载）
@@ -25,13 +29,11 @@
 * [Material Theme](https://github.com/equinusocio/material-theme)
   Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
-[Atom](https://atom.io/)
+## [Atom](https://atom.io/)
 
 * [awesome-atom](https://github.com/mehcode/awesome-atom)A curated list of delightful Atom packages and resources.
 
-
-
-[webstorm](http://www.jetbrains.com/webstorm/)
+## [webstorm](http://www.jetbrains.com/webstorm/)
 
 
 
