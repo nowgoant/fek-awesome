@@ -31,7 +31,7 @@
   讲师
   [@Materliu刘炬光](https://github.com/materliu)
 
-## ＃更多参考资料
+### 更多参考资料
 
 * [React官方网站](http://facebook.github.io/react/)
 * [React博客](http://facebook.github.io/react/blog/)
