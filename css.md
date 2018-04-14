@@ -3,8 +3,7 @@
 _**国内篇**_
 
 * [Css3动画属性总汇](http://css3lib.alloyteam.com/uilib/animation/demo1/index.html)
-* [CSS3 UI 库](http://css3lib.alloyteam.com/)
-  : Tencent Alloyteam
+* [CSS3 UI 库](http://css3lib.alloyteam.com/): Tencent Alloyteam
 
 _**国外篇**_
 
@@ -42,6 +41,5 @@ _**国外篇**_
 
 ### 
 
-  
 
 
