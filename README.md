@@ -18,11 +18,9 @@
 * [机器学习](/ji-qi-xue-xi.md)
 * [其他](/qi-ta.md)
 
-## 招聘
+## [招聘](https://nowgoant.gitbooks.io/d2notes/zhao-pin.html)
 
-* [与“丫”共“舞”](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
-
-## 文档的[Github地址](https://github.com/nowgoant/fek-awesome)
+## 本文档的[Github地址](https://github.com/nowgoant/fek-awesome)
 
 
 
