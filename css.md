@@ -18,7 +18,7 @@ _**国外篇**_
 * [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)
   A curated collection of useful CSS snippets
 
-## 2.FlexBox
+### 2.FlexBox
 
 * [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox)
   A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
