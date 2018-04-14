@@ -27,7 +27,7 @@ _**国外篇**_
 * [FLEXBOX FROGGY](http://flexboxfroggy.com/?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_20)
   用游戏学习 CSS Flexbox
 
-3.Loading集合
+## 3.Loading集合
 
 * [SpinKit](https://github.com/tobiasahlin/SpinKit)
 * [css-loaders](https://github.com/lukehaas/css-loaders)
