@@ -17,8 +17,9 @@
   [http://redux.js.org](http://redux.js.org/)
 * [React Table](http://react-table.js.org) - A lightweight, fast and extendable datagrid for React [http://react-table.js.org](http://react-table.js.org/)
 
-* [react-draggable](https://github.com/nowgoant/react-draggable)
+* [react-draggable](https://github.com/nowgoant/react-draggable) 拖拽，支持对齐辅助线和吸附边缘，键盘方向键移动，仿sketch
 
+* 
 * ### 王沛老师的React专栏文章
 * [《深入浅出React（一）：React的设计哲学 - 简单之美》](http://www.infoq.com/cn/articles/react-art-of-simplity)
 
