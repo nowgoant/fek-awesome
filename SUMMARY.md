@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [前端代码规范](qian-duan-dai-ma-gui-fan.md)
+* [前端开发IDE](qian-duan-kai-fa-ide.md)
 
 ## 前端代码规范
 
