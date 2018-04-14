@@ -15,7 +15,7 @@
 * [Redux](https://github.com/rackt/redux)
   Predictable state container for JavaScript apps
   [http://redux.js.org](http://redux.js.org/)
-* React Table - A lightweight, fast and extendable datagrid for React [http://react-table.js.org](http://react-table.js.org/)
+* [React Table](http://react-table.js.org) - A lightweight, fast and extendable datagrid for React [http://react-table.js.org](http://react-table.js.org/)
 
 * ### 王沛老师的React专栏文章
 * [《深入浅出React（一）：React的设计哲学 - 简单之美》](http://www.infoq.com/cn/articles/react-art-of-simplity)
@@ -23,6 +23,7 @@
 * [《深入浅出React（二）：React开发神器Webpack》](http://www.infoq.com/cn/articles/react-and-webpack)
 
 * [《深入浅出React（三）：理解JSX和组件》](http://www.infoq.com/cn/articles/react-jsx-and-component)
+
 * [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 * [深入浅出React（五）：使用Flux搭建React应用程序架构](http://www.infoq.com/cn/articles/react-flux)
 
