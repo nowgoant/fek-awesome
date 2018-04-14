@@ -1,4 +1,4 @@
-## 导航
+## [https://github.com/nowgoant/fek-awesome](https://github.com/nowgoant/fek-awesome)导航
 
 * [前端代码规范](/qian-duan-dai-ma-gui-fan.md)
 * [前端开发IDE](/qian-duan-kai-fa-ide.md)
@@ -22,9 +22,7 @@
 
 * [与“丫”共“舞”](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
 
-
-
-## 文档的[Github地址](https://github.com/nowgoant/d2notes)
+## 文档的[Github地址](https://github.com/nowgoant/fek-awesome)
 
 
 
