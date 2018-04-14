@@ -14,14 +14,11 @@
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)借助  
   [SublimeLinter 编写高质量的 JavaScript & CSS 代码](http://www.cnblogs.com/lhb25/archive/2013/05/02/sublimelinter-for-js-css-coding.html)需要借助于[Node](http://nodejs.org/)和[jshint](http://jshint.com/docs/#options)
 
-* 代码格式工具  
-  [Tag](https://packagecontrol.io/packages/Tag)  
-  只适用于HTML/XML;  
-  [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS Prettify)  
-  见闻知意了，依赖于Node
+* 代码格式工具[Tag](https://packagecontrol.io/packages/Tag)只适用于HTML/XML;[HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS Prettify)见闻知意了，依赖于Node
 
-* [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN)
+* [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN)  
   ，你懂得
+
 * [Material Theme](https://github.com/equinusocio/material-theme)
   Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
