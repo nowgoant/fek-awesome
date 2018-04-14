@@ -9,8 +9,7 @@
 
 **国内篇**
 
-* [JDF](https://github.com/putaoshu/jdf)
-  京东前端集成解决方案
+* [JDF](https://github.com/putaoshu/jdf)京东前端集成解决方案
 * [F.I.S](http://fis.baidu.com/)
   前端集成解决方案,百度FEX团队贡献，
   [视频教程（有惊喜）](http://www.imooc.com/learn/220)
