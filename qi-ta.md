@@ -9,6 +9,7 @@
   Freely available programming books，支持多种语言
 * [F2E-Tutorial-Collect](https://github.com/jobbole/awesome-machine-learning-cn)
   前端资料整理
+* [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
 
 
