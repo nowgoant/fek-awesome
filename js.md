@@ -78,7 +78,7 @@
 * [uppie](https://github.com/silverwind/uppie)
   Cross-browser directory uploads made easy
 
-11.WebSQL
+### 11.WebSQL
 
 * [WebSqlSync](https://github.com/orbitaloop/WebSqlSync)
   Synchronize a local WebSQL DB to a server
