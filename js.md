@@ -114,9 +114,9 @@
 
 * [gka](https://github.com/gkajs/gka)一款高效、高性能的帧动画生成工具
 
-### 18.动画
+### 18.输入框格式化
 
-* [gka](https://github.com/gkajs/gka)一款高效、高性能的帧动画生成工具
+* [Text Mask](https://github.com/text-mask) Input mask for React, Angular, Ember, Vue, &  plain JavaScript
 
 
 
