@@ -114,7 +114,7 @@
 
 * [gka](https://github.com/gkajs/gka)一款高效、高性能的帧动画生成工具
 
-### 18.动画
+### 18.
 
 * [gka](https://github.com/gkajs/gka)一款高效、高性能的帧动画生成工具
 
