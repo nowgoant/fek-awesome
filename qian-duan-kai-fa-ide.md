@@ -1,6 +1,6 @@
 ## [Visual Studio Code](https://code.visualstudio.com/)
 
-## 
+* [awesome-vscode](https://github.com/viatsko/awesome-vscode)
 
 ## [Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)插件：
 
