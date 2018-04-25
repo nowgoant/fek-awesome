@@ -15,5 +15,3 @@
 
 
 
-![](https://m.360buyimg.com/jrqb/jfs/t18601/197/2010753725/23737/9fbde5dc/5ae04a67N2d2a1919.png)
-
