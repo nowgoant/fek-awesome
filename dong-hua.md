@@ -8,8 +8,7 @@
 ### Express
 
 * [morgan](https://github.com/expressjs/morgan) [Node 进阶：express 默认日志组件 morgan 从入门使用到源码剖析](http://www.cnblogs.com/chyingp/p/node-learning-guide-express-morgan.html)
-
-
+* [Nodejs进阶：基于express+multer的文件上传](http://www.cnblogs.com/chyingp/p/express-multer-file-upload.html)
 
 ### 
 
