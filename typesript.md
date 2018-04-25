@@ -4,8 +4,6 @@
 
 ### 
 
-### 
-
 ### Node.js
 
 * [typescript-starter](https://github.com/bitjson/typescript-starter) Quickly create and configure a new library or Node.js project
