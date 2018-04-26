@@ -18,4 +18,5 @@
 * [Frontend Boilerplate](frontend-boilerplate.md)
 * [Front-end-Web-Development-Interview-Question](front-end-web-development-interview-question.md)
 * Typesript
+* [MySQL](mysql.md)
 
