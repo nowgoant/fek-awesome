@@ -1,6 +1,6 @@
 ### MySQL
 
-* [awesome-typescript](https://github.com/dzharii/awesome-typescript) A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+* [**awesome-mysql-cn**](https://github.com/jobbole/awesome-mysql-cn) MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
 
 
 
