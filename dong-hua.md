@@ -15,6 +15,8 @@
 
 * [Backend with Node: Express.js, TypeScript, Sequelize](https://gorrion.io/blog/node-express-js-typescript-sequelize/)
 
+* [Using Sequelize with TypeScript](https://michalzalecki.com/using-sequelize-with-typescript/)
+
 * [config dotenv](https://andy6804tw.github.io/2018/01/01/joi-config-dotenv/) 設定joi與config dotenv環境參數
 
 
