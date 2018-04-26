@@ -13,6 +13,8 @@
 * [Nodejs最好的ORM - TypeORM](https://cloud.tencent.com/developer/article/1012625)     [WebSQL例子](https://github.com/typeorm/browser-example)  [typeorm官网](https://github.com/typeorm) 
 * [sequelize](https://github.com/sequelize/sequelize) An easy-to-use multi SQL dialect ORM for Node.js [http://docs.sequelizejs.com](http://docs.sequelizejs.com/)
 
+* [Backend with Node: Express.js, TypeScript, Sequelize](https://gorrion.io/blog/node-express-js-typescript-sequelize/)
+
 * [config dotenv](https://andy6804tw.github.io/2018/01/01/joi-config-dotenv/) 設定joi與config dotenv環境參數
 
 
