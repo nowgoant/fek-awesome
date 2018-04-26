@@ -13,6 +13,8 @@
 * [Nodejs最好的ORM - TypeORM](https://cloud.tencent.com/developer/article/1012625)     [WebSQL例子](https://github.com/typeorm/browser-example)  [typeorm官网](https://github.com/typeorm) 
 * [sequelize](https://github.com/sequelize/sequelize) An easy-to-use multi SQL dialect ORM for Node.js [http://docs.sequelizejs.com](http://docs.sequelizejs.com/)
 
+* [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) Decorators and some other features for sequelize \(v3 + v4\)
+
 * [Backend with Node: Express.js, TypeScript, Sequelize](https://gorrion.io/blog/node-express-js-typescript-sequelize/)
 
 * [Using Sequelize with TypeScript](https://michalzalecki.com/using-sequelize-with-typescript/)
