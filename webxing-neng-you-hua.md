@@ -10,7 +10,8 @@
 
 ### Chrome Devtool
 
-* [全新Chrome Devtool Performance使用指南](https://nicholaslee119.github.io/2017/10/04/Chrome-Devtool-Performance%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
+* [全新Chrome Devtool Performance使用指南](https://nicholaslee119.github.io/2017/10/04/Chrome-Devtool-Performance使用指南/)
+* [前端性能监控：window.performance](https://zhuanlan.zhihu.com/p/30329705)
 
 
 
