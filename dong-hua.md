@@ -14,7 +14,7 @@
 
 * [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) Decorators and some other features for sequelize \(v3 + v4\)
 
-* [Sequelize Docs 中文版](https://demopark.github.io/sequelize-docs-Zh-CN)
+* [Sequelize Docs 中文版](https://demopark.github.io/sequelize-docs-Zh-CN) https://segmentfault.com/a/1190000011583752
 
 * [routing-controllers](https://github.com/typestack/routing-controllers) Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 
