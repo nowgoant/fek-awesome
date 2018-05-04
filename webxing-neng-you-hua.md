@@ -8,7 +8,7 @@
 * [jsperf](https://jsperf.com/browse)
   提供了一个简便的方式来创建和共享测试用例
 
-### Chrome性能优化
+### Chrome Devtool
 
 ## 全新Chrome Devtool Performance使用指南
 
