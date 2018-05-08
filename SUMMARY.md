@@ -7,6 +7,7 @@
 * [前端知识自我修养](qian-duan-zhi-shi-zi-wo-xiu-yang.md)
 * [CSS](css.md)
 * [JS](js.md)
+* [Vue](vue.md)
 * [React](react.md)
 * [Typesript](typesript.md)
 * [Node.js](dong-hua.md)
@@ -18,5 +19,5 @@
 * [Frontend Boilerplate](frontend-boilerplate.md)
 * [Front-end-Web-Development-Interview-Question](front-end-web-development-interview-question.md)
 * Typesript
-* [MySQL](mysql.md)
+* [Vue](vue.md)
 
