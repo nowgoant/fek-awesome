@@ -6,6 +6,7 @@
 * [前端知识自我修养](/qian-duan-zhi-shi-zi-wo-xiu-yang.md)
 * [CSS](/css.md)
 * [JS](/js.md)
+* [Vue](/vue.md)
 * [React](/react.md)
 * [Node.js Utility](/dong-hua.md)
 * [Typesript](/typesript.md)
