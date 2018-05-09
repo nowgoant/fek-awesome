@@ -22,4 +22,6 @@
 * Typesript
 * [Vue](vue.md)
 * [IM](im.md)
+* [其他](qi-ta.md)
+  * [MAC解决端口占用](qi-ta/macjie-jue-duan-kou-zhan-yong.md)
 
