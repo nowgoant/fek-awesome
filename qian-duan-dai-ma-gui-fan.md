@@ -7,6 +7,8 @@
 
 * [我为什么推荐Prettier来统一代码风格](https://blog.fundebug.com/2017/10/23/format-code-use-Prettier/)
 
+* [用 Prettier 统一团队的代码风格~](http://react-china.org/t/prettier/11498)
+
 * [用Prettier格式化JavaScript代码](http://www.infoq.com/cn/articles/using-prettier-format-javascript-code)
 
 * [用 ESLint 和 Prettier 写出高质量代码](https://egoist.moe/2017/12/11/write-better-code-with-eslint-and-prettier/)
