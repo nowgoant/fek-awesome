@@ -6,6 +6,7 @@
 * [统一编码风格](qian-duan-dai-ma-gui-fan.md)
 * [前端知识自我修养](qian-duan-zhi-shi-zi-wo-xiu-yang.md)
   * [代码审查清单](qian-duan-zhi-shi-zi-wo-xiu-yang/dai-ma-shen-cha-qing-dan.md)
+  * [H5研发清单](qian-duan-zhi-shi-zi-wo-xiu-yang/h5yan-fa-qing-dan.md)
 * [CSS](css.md)
 * [JS](js.md)
 * [Vue](vue.md)
