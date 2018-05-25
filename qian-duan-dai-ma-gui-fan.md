@@ -17,14 +17,11 @@
 
 * [用 Prettier 美化代码](https://github.com/shaozj/blog/issues/18)
 
-
-
 ```
-.prettierrc 
+.prettierrc
 ```
 
 ```
-
 {
   "printWidth": 120,               // 换行字符串阈值
   "semi": true,                    // 句末加分号
