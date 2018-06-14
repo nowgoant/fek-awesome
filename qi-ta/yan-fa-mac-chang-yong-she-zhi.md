@@ -6,5 +6,5 @@
 
 不显示全部文件
 
-defaults write com.apple.finder AppleShowAllFiles -bool false osascript -e 'tell application "Finder" to quit
+`defaults write com.apple.finder AppleShowAllFiles -bool false osascript -e 'tell application "Finder" to quit`
 
