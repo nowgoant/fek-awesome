@@ -84,8 +84,7 @@
 
 ### 13.JSON
 
-* [lave](https://github.com/jed/lave)
-  Why not just use JSON.stringify?
+* [lave](https://github.com/jed/lave) Why not just use JSON.stringify?
 
 ### 14.用户行为跟踪
 
