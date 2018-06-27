@@ -74,8 +74,7 @@
 
 ### 11.正则表达式
 
-* [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
-  JavaScript Regular expressions made easy
+* [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) JavaScript Regular expressions made easy
 
 ### 12.框架和库
 
