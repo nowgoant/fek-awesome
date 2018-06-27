@@ -59,6 +59,7 @@
 * [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) Easy scroll animations for web and mobile browsers.
 
 * [scroller](https://github.com/zynga/scroller) Accelerated panning and zooming for HTML and Canvas
+
 * [syncscroll.js](https://github.com/asvd/syncscroll) Sync scroll
 
 ### 9.上传
@@ -88,8 +89,7 @@
 
 ### 14.用户行为跟踪
 
-* [fingerprintJS](https://github.com/Valve/fingerprintJS)
-  Anonymous browser fingerprint
+* [fingerprintJS](https://github.com/Valve/fingerprintJS) Anonymous browser fingerprint
 
 ### 15.用户指引
 
