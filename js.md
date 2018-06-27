@@ -76,25 +76,20 @@
 
 * [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) JavaScript Regular expressions made easy
 
-### 12.框架和库
-
-* [React](https://github.com/nowgoant/fek/tree/master/react)
-* [awesome-vue](https://github.com/vuejs/awesome-vue)
-
-### 13.JSON
+### 12.JSON
 
 * [lave](https://github.com/jed/lave) Why not just use JSON.stringify?
 
-### 14.用户行为跟踪
+### 13.用户行为跟踪
 
 * [fingerprintJS](https://github.com/Valve/fingerprintJS) Anonymous browser fingerprint
 
-### 15.用户指引
+### 14.用户指引
 
 * [driver.js](https://github.com/kamranahmedse/driver.js) A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 * [intro.js](https://github.com/usablica/intro.js) A better way for new feature introduction and step-by-step users guide for your website and project.
 
-### 16.输入框Input格式化
+### 15.输入框Input格式化
 
 * [Text Mask](https://github.com/text-mask) Input mask for React, Angular, Ember, Vue, & plain JavaScript
 
