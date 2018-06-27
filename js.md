@@ -54,10 +54,8 @@
 
 ### 8.SVG
 
-* [Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
-  The JavaScript library for modern SVG graphics.
-* [svg.js](http://svgjs.com/)
-  A lightweight library for manipulating and animating SVG
+* [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) The JavaScript library for modern SVG graphics.
+* [svg.js](http://svgjs.com/) A lightweight library for manipulating and animating SVG
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 
 ### 9.滑动组件
