@@ -62,16 +62,14 @@
 
 ### 9.滑动组件
 
-* [Swiper](https://github.com/nolimits4web/Swiper)
-  Most modern mobile touch slider with hardware accelerated transitions
-* [iSlider](https://github.com/peunzhang/iSlider)
-  Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App
-* [fullpage](https://github.com/peunzhang/fullpage)
-  For desktop\(ie5.5+\) or mobile webApp without jQuery,create full screen pages fast and simple.
-* [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
-  Full featured JavaScript image 
-  &
-   video gallery. No dependencies
+* [Swiper](https://github.com/nolimits4web/Swiper) Most modern mobile touch slider with hardware accelerated transitions
+* [iSlider](https://github.com/peunzhang/iSlider) Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App
+* [better-scroll](https://github.com/ustbhuangyi/better-scroll) inspired by iscroll, and it supports more features and has a better scroll perfermance,The size of compiled code is 63 KB, 35 KB after compressed, and only 9KB after gzip
+* [finger-mover](https://github.com/HcySunYang/finger-mover) A motion effect library that integrates Fingerd and Moved
+
+* [fullpage](https://github.com/peunzhang/fullpage) For desktop\(ie5.5+\) or mobile webApp without jQuery,create full screen pages fast and simple.
+
+* [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) Full featured JavaScript image & video gallery. No dependencies
 
 ### 10.上传
 
