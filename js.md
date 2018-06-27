@@ -62,6 +62,7 @@
 
 ### 9.滑动组件
 
+* [iscroll](https://github.com/cubiq/iscroll) Smooth scrolling for the web
 * [Swiper](https://github.com/nolimits4web/Swiper) Most modern mobile touch slider with hardware accelerated transitions
 * [iSlider](https://github.com/peunzhang/iSlider) Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App
 * [better-scroll](https://github.com/ustbhuangyi/better-scroll) inspired by iscroll, and it supports more features and has a better scroll perfermance,The size of compiled code is 63 KB, 35 KB after compressed, and only 9KB after gzip
