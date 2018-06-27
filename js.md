@@ -15,8 +15,7 @@
 
 ### 4.剪切板
 
-* [clipboard](https://github.com/zenorocha/clipboard.js)
-  Modern copy to clipboard. No Flash. Just 2kb
+* [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard. No Flash. Just 2kb
 
 ### 5.金融
 
