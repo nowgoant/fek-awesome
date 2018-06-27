@@ -64,8 +64,7 @@
 
 ### 9.上传
 
-* [uppie](https://github.com/silverwind/uppie)
-  Cross-browser directory uploads made easy
+* [uppie](https://github.com/silverwind/uppie) Cross-browser directory uploads made easy
 
 ### 10.WebSQL
 
