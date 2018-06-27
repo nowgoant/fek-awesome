@@ -57,6 +57,7 @@
 * [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) Full featured JavaScript image & video gallery. No dependencies
 
 * [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) Easy scroll animations for web and mobile browsers.
+
 * [scroller](https://github.com/zynga/scroller) Accelerated panning and zooming for HTML and Canvas
 * [syncscroll.js](https://github.com/asvd/syncscroll) Sync scroll
 
@@ -92,10 +93,8 @@
 
 ### 15.用户指引
 
-* [driver.js](https://github.com/kamranahmedse/driver.js)
-  A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-* [intro.js](https://github.com/usablica/intro.js)
-  A better way for new feature introduction and step-by-step users guide for your website and project.
+* [driver.js](https://github.com/kamranahmedse/driver.js) A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+* [intro.js](https://github.com/usablica/intro.js) A better way for new feature introduction and step-by-step users guide for your website and project.
 
 ### 16.输入框Input格式化
 
