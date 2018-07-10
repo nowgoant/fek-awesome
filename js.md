@@ -12,6 +12,7 @@
 
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) Javascript library to create physics-based CSS animations
 * [gka](#) 一款高效、高性能的帧动画生成工具
+* [odometer](https://github.com/HubSpot/odometer) Smoothly transitions numbers with ease
 
 ### 4.剪切板
 

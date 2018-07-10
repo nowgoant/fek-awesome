@@ -8,6 +8,8 @@
 
 * [React-Native学习指南](https://github.com/ele828/react-native-guide)React Native指南汇集了各类react-native学习资源、开源App和组件
 
+* [React Native动画详解](https://future-challenger.gitbooks.io/react-native-animation/content/)
+
 * [Material-ui](https://github.com/callemall/material-ui)React Components that Implement Google's Material Design.
 
 * [React-canvas](https://github.com/Flipboard/react-canvas)High performance rendering for React components
