@@ -2,7 +2,7 @@
 
 终端输入：
 
-> lsof -i tcp:80
+> sudo lsof -i tcp:80
 
 将port换成被占用的端口\(如：8086、9998\)
 
