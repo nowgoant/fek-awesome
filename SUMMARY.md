@@ -31,4 +31,5 @@
   * [INVALID\_STATE\_ERR: DOM Exception 11异常](qi-ta/invalidstate-err-dom-exception-11yi-chang.md)
   * [研发MAC常用设置](qi-ta/yan-fa-mac-chang-yong-she-zhi.md)
   * [.zshrc配置](qi-ta/zshrcpei-zhi.md)
+* [Chrome](chrome.md)
 
