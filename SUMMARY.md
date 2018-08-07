@@ -26,6 +26,7 @@
 * [Linux](linux.md)
   * [Docker](linux/docker.md)
   * [Nginx](linux/nginx.md)
+  * command line
 * [其他](qi-ta.md)
   * [MAC解决端口占用](qi-ta/macjie-jue-duan-kou-zhan-yong.md)
   * [INVALID\_STATE\_ERR: DOM Exception 11异常](qi-ta/invalidstate-err-dom-exception-11yi-chang.md)
