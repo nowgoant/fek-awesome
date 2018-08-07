@@ -7,9 +7,10 @@ Command Line
 
 * 重启服务 service ssh restart
 
-* 启动ssh代理  eval "$\(ssh-agent -s\)" 
+* 启动ssh代理  eval "$\(ssh-agent -s\)"
 
 * 加入到ssh代理 ssh-add ~/.ssh/id\_rsa
+
 * 修改服务器的chmod 600 authorized\_keys 访问权限
 
 
