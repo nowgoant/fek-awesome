@@ -15,5 +15,7 @@ Command Line
 
 * 修改服务器的chmod 600 authorized\_keys 访问权限
 
+* echo fs.inotify.max\_user\_watches=524288 \| sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
 
 
