@@ -1,12 +1,8 @@
 ### Web性能优化工具
 
-* [前端性能优化-基础知识认知](http://www.imooc.com/learn/580)
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-  使您的网页在所有设备上都能快速加载  
-* [Benchmark.js](https://github.com/bestiejs/benchmark.js)
-  性能测试
-* [jsperf](https://jsperf.com/browse)
-  提供了一个简便的方式来创建和共享测试用例
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) 使您的网页在所有设备上都能快速加载  
+* [Benchmark.js](https://github.com/bestiejs/benchmark.js) 性能测试
+* [jsperf](https://jsperf.com/browse) 提供了一个简便的方式来创建和共享测试用例
 
 ### Chrome Devtool
 
@@ -15,7 +11,9 @@
 
 ### Web性能优化文章
 
-* [网站性能优化实战——从12.67s到1.06s的故事](http://imweb.io/topic/5b6fd3c13cb5a02f33c013bd) [http://imweb.io/topic/5b6fd3c13cb5a02f33c013bd](http://imweb.io/topic/5b6fd3c13cb5a02f33c013bd)
+* [端性能优化-基础知识认知](http://www.imooc.com/learn/580)
+
+* [网站性能优化实战——从12.67s到1.06s的故事](#) [http://imweb.io/topic/5b6fd3c13cb5a02f33c013bd](#)
 
 
 
