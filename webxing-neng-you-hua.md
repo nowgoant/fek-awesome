@@ -1,4 +1,4 @@
-### Web性能优化
+### Web性能优化工具
 
 * [前端性能优化-基础知识认知](http://www.imooc.com/learn/580)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
