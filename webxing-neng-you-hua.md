@@ -3,6 +3,7 @@
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) 使您的网页在所有设备上都能快速加载  
 * [Benchmark.js](https://github.com/bestiejs/benchmark.js) 性能测试
 * [jsperf](https://jsperf.com/browse) 提供了一个简便的方式来创建和共享测试用例
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=zh-cn)  是一个开源的自动化工具，用于改进网络应用的质量
 
 ### Chrome Devtool
 
