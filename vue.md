@@ -1,6 +1,6 @@
 ### Vue库
 
-* [better-scroll](https://github.com/ustbhuangyi/better-scroll)
+* [better-scroll](https://github.com/ustbhuangyi/better-scroll) inspired by iscroll, and it supports more features and has a better scroll perfermance
 
 ### Vue文章
 
