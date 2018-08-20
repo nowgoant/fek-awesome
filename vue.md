@@ -1,6 +1,7 @@
 ### Vue库
 
 * [better-scroll](https://github.com/ustbhuangyi/better-scroll) inspired by iscroll, and it supports more features and has a better scroll perfermance
+* [**Vue-Layout**](https://github.com/jaweii/Vue-Layout) 基于UI组件的Vue可视化布局工具
 
 ### Vue文章
 
