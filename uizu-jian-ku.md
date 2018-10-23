@@ -2,7 +2,7 @@
 
 * 饿了么UI [https://github.com/ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) 
 * [cube-ui](https://github.com/didi/cube-ui/) 滴滴 [https://github.com/didi/cube-ui/](https://github.com/didi/cube-ui/) 
-* [https://github.com/Tencent/weui](https://github.com/Tencent/weui)
+*  腾讯微信UI [https://github.com/Tencent/weui](https://github.com/Tencent/weui)
 
 ## PC UI
 
