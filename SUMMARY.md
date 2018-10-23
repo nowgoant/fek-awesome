@@ -32,4 +32,5 @@
   * [研发MAC常用设置](qi-ta/yan-fa-mac-chang-yong-she-zhi.md)
   * [.zshrc配置](qi-ta/zshrcpei-zhi.md)
 * [Chrome](chrome.md)
+* [UI组件库](uizu-jian-ku.md)
 
