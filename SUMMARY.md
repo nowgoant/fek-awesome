@@ -33,4 +33,5 @@
   * [.zshrc配置](qi-ta/zshrcpei-zhi.md)
 * [Chrome](chrome.md)
 * [UI组件库](uizu-jian-ku.md)
+* [小程序](xiao-cheng-xu.md)
 
