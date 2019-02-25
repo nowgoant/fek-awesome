@@ -1,8 +1,6 @@
 ## Docker的文档：
 
-* onShareAppMessage 钩子函数不能加 async 修饰
-
-[https://yeasy.gitbooks.io/docker\_practice/cases/ci/travis.html](https://yeasy.gitbooks.io/docker_practice/cases/ci/travis.html)
+* https://github.com/yeasy/docker\_practice 
 
 
 
