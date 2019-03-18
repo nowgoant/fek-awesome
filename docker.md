@@ -2,10 +2,6 @@
 
 * 从入门到实践 [https://github.com/yeasy/docker\_practice](https://github.com/yeasy/docker_practice) 
 
-
-
-
-
 运行docker不加sudo
 
 ```
