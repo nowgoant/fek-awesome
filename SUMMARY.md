@@ -11,7 +11,6 @@
 * [JS](js.md)
 * [Vue](vue.md)
 * [React](react.md)
-* [Typesript](typesript.md)
 * [Node.js](dong-hua.md)
 * [XSS](xss.md)
 * [前端单元测试工具](qian-duan-dan-yuan-ce-shi-gong-ju.md)
@@ -20,7 +19,7 @@
 * [UED官网](github.md)
 * [Frontend Boilerplate](frontend-boilerplate.md)
 * [Front-end-Web-Development-Interview-Question](front-end-web-development-interview-question.md)
-* Typesript
+* [Typesript](typesript.md)
 * [IM](im.md)
 * [Linux](linux.md)
   * [Docker](linux/docker.md)
