@@ -32,11 +32,9 @@ A delicious blend of gulp tasks combined into a configurable asset pipeline and 
 
 ## [F.I.S](http://fis.baidu.com/)
 
-前端集成解决方案,百度FEX团队贡献，[视频教程（有惊喜）](http://www.imooc.com/learn/220)，相对Grunt和Gulp容易入手，访问没有限制
+前端集成解决方案,百度FEX团队贡献，[视频教程](http://www.imooc.com/learn/220)，相对Grunt和Gulp容易入手，访问没有限制
 
 ## [Spirit](http://alloyteam.github.io/Spirit/)
 
 腾讯移动Web整体解决方案，腾讯Alloyteam团队贡献
-
-
 
