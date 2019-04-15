@@ -6,7 +6,7 @@
 
 ## [Yeoman](http://yeoman.io/)
 
-WebApp脚手架工具，带有很多generator生成器，比如：generator-webapp,generator-mobile移动优先，[慕课网视频教程](http://www.imooc.com/learn/30)[老湿很牛](https://github.com/materliu)
+  WebApp脚手架工具，带有很多generator生成器，比如：generator-webapp,generator-mobile移动优先，[慕课网视频教程](http://www.imooc.com/learn/30)[老湿很牛](https://github.com/materliu)
 
 ## [Grunt](http://www.gruntjs.net/)
 
