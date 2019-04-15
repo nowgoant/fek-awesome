@@ -20,7 +20,7 @@ javascript库管理工具
 
 Grunt竞争对手，Grunt的插件职责不单一，Gulp针对这方面有所改进，后起之秀有架构方便的优势
 
-## [Rollup](http://www.rollupjs.com/) 
+## [Rollup](http://www.rollupjs.com/)
 
 是一个 JavaScript 模块打包器
 
@@ -28,7 +28,7 @@ Grunt竞争对手，Grunt的插件职责不单一，Gulp针对这方面有所改
 
 A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
 
-**国内篇**
+## **国内篇**
 
 * [JDF](https://github.com/putaoshu/jdf)京东前端集成解决方案
 * [F.I.S](http://fis.baidu.com/)前端集成解决方案,百度FEX团队贡献，[视频教程（有惊喜）](http://www.imooc.com/learn/220)，相对Grunt和Gulp容易入手，访问没有限制
