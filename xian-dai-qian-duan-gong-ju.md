@@ -1,6 +1,8 @@
 **国外篇**
 
-* [webpack](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
+  - [webpack](https://legacy.gitbook.com/book/nowgoant/fek-awesome/edit#)
+
+         从基础到实战 手摸手带你掌握新版Webpack4.0详解
 
 * [Yeoman](http://yeoman.io/) 现代WebApp脚手架工具，带有很多generator生成器，比如：generator-webapp,generator-mobile移动优先，[慕课网视频教程](http://www.imooc.com/learn/30)[老湿很牛](https://github.com/materliu)
 
