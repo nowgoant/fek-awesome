@@ -16,13 +16,17 @@ javasript的build工具，开发常用的例如压缩（minification）、编译
 
 javascript库管理工具
 
-[Gulp](http://gulpjs.com/) 
+## [Gulp](http://gulpjs.com/)
 
 Grunt竞争对手，Grunt的插件职责不单一，Gulp针对这方面有所改进，后起之秀有架构方便的优势
 
-[Rollup](http://www.rollupjs.com/) 是一个 JavaScript 模块打包器
+## [Rollup](http://www.rollupjs.com/) 
 
-[gulp-starter](https://github.com/vigetlabs/gulp-starter)A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
+是一个 JavaScript 模块打包器
+
+## [gulp-starter](https://github.com/vigetlabs/gulp-starter)
+
+A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
 
 **国内篇**
 
