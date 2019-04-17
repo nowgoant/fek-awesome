@@ -9,6 +9,7 @@
 ## Demo
 
 * [https://github.com/fouadbhatti/awesome-web-worker](https://github.com/fouadbhatti/awesome-web-worker)
+* [阮一峰](http://www.ruanyifeng.com/)
 
 
 
