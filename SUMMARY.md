@@ -35,4 +35,5 @@
 * [小程序](xiao-cheng-xu.md)
 * [docker](docker.md)
 * [Web Worker](web-worker.md)
+* [Babel](babel.md)
 
