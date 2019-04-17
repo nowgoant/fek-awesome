@@ -9,7 +9,7 @@
 * [Vue](/vue.md)
 * [React](/react.md)
 * [Node.js Utility](/dong-hua.md)
-* [Typesript](/typesript.md)
+* [TypeSript](/typesript.md)
 * [XSS](/xss.md)
 * [UI组件库](#)
 
@@ -26,6 +26,7 @@
 * [Front-end-Web-Development-Interview-Question](/front-end-web-development-interview-question.md)
 
 * [机器学习](/ji-qi-xue-xi.md)
+
 * [Chrome](/chrome.md)
 * [其他](/qi-ta.md)
 
