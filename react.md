@@ -28,7 +28,7 @@
 
 ### 视频
 
-* 知乎开源视频播放器 [https://github.com/zhihu/griffith](https://github.com/zhihu/griffith)
+* [知乎开源视频播放器](https://github.com/zhihu/griffith) [https://github.com/zhihu/griffith](https://github.com/zhihu/griffith)
 
 ### 王沛老师的React专栏文章
 
