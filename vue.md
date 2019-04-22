@@ -14,7 +14,7 @@
 
 * [Vue技术内幕](http://hcysun.me/vue-design/)
 
-* [https://juejin.im/post/5cba04bbf265da039444a709?utm\_source=gold\_browser\_extension](https://juejin.im/post/5cba04bbf265da039444a709?utm_source=gold_browser_extension)
+* 力荐 35 个最好用的 Vue 开源库！ [https://juejin.im/post/5cba04bbf265da039444a709?utm\_source=gold\_browser\_extension](https://juejin.im/post/5cba04bbf265da039444a709?utm_source=gold_browser_extension)
 
 ### 工具
 
