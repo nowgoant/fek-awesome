@@ -28,7 +28,7 @@
 
 ### UI components
 
-* [https://github.com/youzan/zent](https://github.com/youzan/zent)
+* 有赞 [https://github.com/youzan/zent](https://github.com/youzan/zent)
 
 ### 视频
 
