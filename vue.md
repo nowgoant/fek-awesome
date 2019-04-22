@@ -14,6 +14,8 @@
 
 * [Vue技术内幕](http://hcysun.me/vue-design/)
 
+* [https://juejin.im/post/5cba04bbf265da039444a709?utm\_source=gold\_browser\_extension](https://juejin.im/post/5cba04bbf265da039444a709?utm_source=gold_browser_extension)
+
 ### 工具
 
 * [vue组件内script格式化自动加"和;](https://github.com/vuejs/vetur/issues/483)
