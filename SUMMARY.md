@@ -35,7 +35,6 @@
 * [docker](docker.md)
 * [Web Worker](web-worker.md)
 * [Babel](babel.md)
-* Mac
-  * [ports](ports.md)
-* [MAC解决端口占用](qi-ta/macjie-jue-duan-kou-zhan-yong.md)
+* [Mac](mac.md)
+  * [MAC解决端口占用](ports.md)
 
