@@ -26,7 +26,6 @@
   * [Nginx](linux/nginx.md)
   * [command line](linux/command-line.md)
 * [其他](qi-ta.md)
-  * [MAC解决端口占用](qi-ta/macjie-jue-duan-kou-zhan-yong.md)
   * [INVALID\_STATE\_ERR: DOM Exception 11异常](qi-ta/invalidstate-err-dom-exception-11yi-chang.md)
   * [研发MAC常用设置](qi-ta/yan-fa-mac-chang-yong-she-zhi.md)
   * [.zshrc配置](qi-ta/zshrcpei-zhi.md)
@@ -36,4 +35,7 @@
 * [docker](docker.md)
 * [Web Worker](web-worker.md)
 * [Babel](babel.md)
+* Mac
+  * [ports](ports.md)
+* [MAC解决端口占用](qi-ta/macjie-jue-duan-kou-zhan-yong.md)
 
