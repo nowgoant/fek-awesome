@@ -1,7 +1,8 @@
 # Nginx {#page-title}
 
-* [Nginx 容器教程](http://www.ruanyifeng.com/blog/2018/02/nginx-docker.html) http://www.ruanyifeng.com/blog/2018/02/nginx-docker.html
+* [Nginx 容器教程](http://www.ruanyifeng.com/blog/2018/02/nginx-docker.html) [http://www.ruanyifeng.com/blog/2018/02/nginx-docker.html](http://www.ruanyifeng.com/blog/2018/02/nginx-docker.html)
 
-* 
+* 一文弄懂Nginx的location匹配 [https://juejin.im/post/5cbe89b6f265da0373718707?utm\_source=gold\_browser\_extension](https://juejin.im/post/5cbe89b6f265da0373718707?utm_source=gold_browser_extension)
+
 
 
