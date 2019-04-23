@@ -28,6 +28,8 @@
 * [机器学习](/ji-qi-xue-xi.md)
 
 * [Chrome](/chrome.md)
+
+* [Mac](/mac.md)
 * [其他](/qi-ta.md)
 
 ## [招聘](https://nowgoant.gitbooks.io/d2notes/zhao-pin.html)
