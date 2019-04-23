@@ -4,5 +4,7 @@
 
 * 一文弄懂Nginx的location匹配 [https://juejin.im/post/5cbe89b6f265da0373718707?utm\_source=gold\_browser\_extension](https://juejin.im/post/5cbe89b6f265da0373718707?utm_source=gold_browser_extension)
 
+* 前端必备！最全nginx技术分析 [https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
+
 
 
