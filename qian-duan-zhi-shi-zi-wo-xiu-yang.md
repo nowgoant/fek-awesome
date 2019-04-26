@@ -8,8 +8,7 @@
   基于zepto的ui组件库，适用于移动端
 * [fetool](https://github.com/nieweidong/fetool)
   大前端的瑞士军刀，只记录有用的
-* [skill-map](https://github.com/TeamStuQ/skill-map)
-  StuQ 技能图谱
+* [skill-map](https://github.com/TeamStuQ/skill-map) StuQ 技能图谱
 * 一名【合格】前端工程师的自检清单 [https://juejin.im/post/5cc1da82f265da036023b628?utm\_source=gold\_browser\_extension\#heading-22](https://juejin.im/post/5cc1da82f265da036023b628?utm_source=gold_browser_extension#heading-22)
 
 **国外篇**
