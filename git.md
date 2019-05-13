@@ -1,7 +1,7 @@
 git安装后设置用户和邮箱
 
-$ git config --global[user.name](http://user.name/)"Your erp"  
-$ git config --global user.email "email@[jd.com](http://jd.com/)"
+`$ git config --global`[`user.name`](http://user.name/)`"Your erp"  
+$ git config --global user.email "email@`[`jd.com`](http://jd.com/)`"`
 
 记住密码
 
