@@ -12,6 +12,7 @@
 * [Vue](vue.md)
 * [React](react.md)
 * [Node.js](dong-hua.md)
+  * [Node环境离线安装](dong-hua/nodehuan-jing-li-xian-an-zhuang.md)
 * [XSS](xss.md)
 * [前端单元测试工具](qian-duan-dan-yuan-ce-shi-gong-ju.md)
 * [在线图书/学校](zai-xian-tu-4e66-xue-xiao.md)
