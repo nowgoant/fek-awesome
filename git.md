@@ -32,7 +32,7 @@ $ git config --global credential.helper store
   
 
 
-`$ git config --global `
+`$ git config --global`
 
 [`user.name`](http://user.name/)
 
@@ -65,6 +65,4 @@ $ git config --global credential.helper store
 5.远程Remote
 
 6.其他
-
-
 
