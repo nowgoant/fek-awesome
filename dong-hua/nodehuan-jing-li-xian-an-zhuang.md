@@ -41,7 +41,7 @@ tar -xvzf pm2.tar.gz
 npm build pm2 -g
 ```
 
-OK。大功告成，检验安装是否可用。
+大功告成，检验安装是否可用。
 
 ```
 pm2 -v
