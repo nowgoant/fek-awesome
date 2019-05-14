@@ -3,7 +3,10 @@
 rpm  -qa | grep  mysql
 
 # nodeps表示强制删除
-rpm -e  –nodeps mysql-5.0.77-4.el5_4.2  
+rpm -e  –nodeps mysql-5.0.77-4.el5_4.2
+
+# 查看文件安装路径
+
 ```
 
 
