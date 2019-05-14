@@ -17,6 +17,7 @@ lsof -i -n -P|grep 80
 
 #检查nginx配置正确性
 /usr/local/nginx/sbin/nginx   -t
+
 ```
 
 
