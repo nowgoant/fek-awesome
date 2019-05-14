@@ -26,6 +26,7 @@
   * [Docker](linux/docker.md)
   * [Nginx](linux/nginx.md)
   * [command line](linux/command-line.md)
+  * [Mysql](linux/mysql.md)
 * [其他](qi-ta.md)
   * [INVALID\_STATE\_ERR: DOM Exception 11异常](qi-ta/invalidstate-err-dom-exception-11yi-chang.md)
   * [研发MAC常用设置](qi-ta/yan-fa-mac-chang-yong-she-zhi.md)
