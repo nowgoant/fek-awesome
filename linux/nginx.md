@@ -6,13 +6,14 @@
 
 * 前端必备！最全nginx技术分析 [https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
 
-
-
 ## 常用命令
 
 ```
 # 查询进程
 ps aux |grep nginx
+
+# 查询端口
+lsof -i -n -P|grep 80
 ```
 
 
