@@ -11,6 +11,8 @@ whereis mysql
 # 查询运行文件所在路径(文件夹地址) 
 which mysql
 
+# 查询运行文件所在路径(文件夹地址) 
+
 mysql -uroot -proot
 进入到mysql
 然后执行source /var/ftp/pub/sogoodsoft.sql;
