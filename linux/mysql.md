@@ -13,8 +13,8 @@ which mysql
 
 # linux下执行mysql的sql文件 
 mysql -uroot -proot
-进入到mysql
-然后执行source /var/ftp/pub/sogoodsoft.sql;
+# 进入到mysql
+# 然后执行source /var/ftp/pub/sogoodsoft.sql;
 ```
 
 
