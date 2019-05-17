@@ -22,10 +22,5 @@ lsof -i -n -P|grep 80
 /usr/local/nginx/sbin/nginx -s reload -c /xxx/nginx.conf
 ```
 
-| 字段 | 数据类型 | 描述 |
-| :--- | :--- | :--- |
-| my\_file | file | zip文件 |
-| my\_field | string | 上传的路径，上传到export/App/utest.jr.jd.com/路径下 |
-
 
 
