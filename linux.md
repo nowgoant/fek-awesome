@@ -31,6 +31,7 @@ du -h --max-depth=1
 系统命令
 
 ```
+# centos 
 rpm -q centos-release
 ```
 
