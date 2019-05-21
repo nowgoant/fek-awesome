@@ -17,14 +17,12 @@ Command Line
 
 * echo fs.inotify.max\_user\_watches=524288 \| sudo tee -a /etc/sysctl.conf && sudo sysctl -p
 
-
-
 常用命令
 
 ```
 # 查看文件大小
 ls -lh logs/
-
+# 查询大文件
 ```
 
 
