@@ -20,6 +20,9 @@ lsof -i -n -P|grep 80
 
 #
 /usr/local/nginx/sbin/nginx -s reload -c /xxx/nginx.conf
+
+
+
 ```
 
 
