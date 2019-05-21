@@ -33,6 +33,7 @@ du -h --max-depth=1
 ```
 # centos 查看系统
 rpm -q centos-release
+cat /etc/redhat-release
 ```
 
 
