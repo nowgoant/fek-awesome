@@ -28,5 +28,11 @@ find . -type f -size +800M
 du -h --max-depth=1
 ```
 
+系统命令
+
+```
+rpm -q centos-release
+```
+
 
 
