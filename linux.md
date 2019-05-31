@@ -26,6 +26,8 @@ ls -lh logs/
 find . -type f -size +800M  
 # 如何查找Linux下的大目录
 du -h --max-depth=1
+# 磁盘大小
+df -h
 ```
 
 系统命令
