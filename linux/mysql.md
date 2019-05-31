@@ -16,6 +16,7 @@ mysql -uroot -proot
 # 进入到mysql
 # 然后执行source /var/ftp/pub/sogoodsoft.sql;
 
+MySQL重启
 使用 service 启动：service mysqld restart
 ```
 
