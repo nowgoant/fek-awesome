@@ -16,7 +16,7 @@
 
 * 力荐 35 个最好用的 Vue 开源库！ [https://juejin.im/post/5cba04bbf265da039444a709?utm\_source=gold\_browser\_extension](https://juejin.im/post/5cba04bbf265da039444a709?utm_source=gold_browser_extension)
 
-* 前端必须知道 hook 怎么玩了 
+* 前端必须知道 hook 怎么玩了 [https://juejin.im/post/5d00a67cf265da1b8a4f156f?utm\_source=gold\_browser\_extension](https://juejin.im/post/5d00a67cf265da1b8a4f156f?utm_source=gold_browser_extension)
 
 ### 工具
 
