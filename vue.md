@@ -18,6 +18,8 @@
 
 * 前端必须知道 hook 怎么玩了 [https://juejin.im/post/5d00a67cf265da1b8a4f156f?utm\_source=gold\_browser\_extension](https://juejin.im/post/5d00a67cf265da1b8a4f156f?utm_source=gold_browser_extension)
 
+* Vue Function-based API RFC [https://zhuanlan.zhihu.com/p/68477600](https://zhuanlan.zhihu.com/p/68477600)
+
 ### 工具
 
 * [vue组件内script格式化自动加"和;](https://github.com/vuejs/vetur/issues/483)
