@@ -32,6 +32,7 @@
 * [grade](https://github.com/benhowdle89/grade) 提取图片主题色，并生成过渡的渐变  
 * [gradients](https://github.com/sarcadass/granim.js) 渐变颜色  
 * [guetzli](https://github.com/google/guetzli) Google，Perceptual JPEG encoder
+* OCR [https://github.com/naptha/tesseract.js](https://github.com/naptha/tesseract.js)
 
 ### 7.SVG
 
