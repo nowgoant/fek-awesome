@@ -28,8 +28,9 @@
 
 * 21个让React 开发更高效更有趣的工具 [https://juejin.im/post/5d50a99cf265da03e61b0271?utm\_source=gold\_browser\_extension\#heading-1](https://juejin.im/post/5d50a99cf265da03e61b0271?utm_source=gold_browser_extension#heading-1)
 
-* [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/?nsukey=2HlZ7BBQiWlNlwBdEaeP6VhsECoH0vqhhgecmgw%2FGl8DB2CTYv3j87pIjVCDYo%2BseNe6YNpjvN3PSj%2BFln7ZdRJwJgShbT2DIOPp4HrtQqS21Eszh4UueeM1pDZ1adB%2Fokpl%2F9nHe1r0V2o2USmAl3z7NtQCMpvUrQK6P5CqKGjySvp7pvi40ZdD%2FHtGg5H1Lxdd61gExSzD9Sy6O6lhJA%3D%3D) 
+* [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/?nsukey=2HlZ7BBQiWlNlwBdEaeP6VhsECoH0vqhhgecmgw%2FGl8DB2CTYv3j87pIjVCDYo%2BseNe6YNpjvN3PSj%2BFln7ZdRJwJgShbT2DIOPp4HrtQqS21Eszh4UueeM1pDZ1adB%2Fokpl%2F9nHe1r0V2o2USmAl3z7NtQCMpvUrQK6P5CqKGjySvp7pvi40ZdD%2FHtGg5H1Lxdd61gExSzD9Sy6O6lhJA%3D%3D)
 
+* 
 ### UI components
 
 * 有赞 [https://github.com/youzan/zent](https://github.com/youzan/zent)
@@ -49,6 +50,8 @@
 * [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
 
 * [深入浅出React（五）：使用Flux搭建React应用程序架构](http://www.infoq.com/cn/articles/react-flux)
+
+* React Hooks 最佳实践 [https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8?utm\_source=gold\_browser\_extension](https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8?utm_source=gold_browser_extension)
 
 ### 王沛老师视频
 
