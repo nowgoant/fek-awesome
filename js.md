@@ -100,9 +100,7 @@
 
 ### 18.独立组件
 
-* [https://github.com/iamkun/dayjs](https://github.com/iamkun/dayjs)
-
-* [https://github.com/moment/moment/](https://github.com/moment/moment/)
+* 刮刮卡 [https://github.com/Yuezi32/scratchcard](https://github.com/Yuezi32/scratchcard)
 
 
 
