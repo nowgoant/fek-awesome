@@ -98,7 +98,7 @@
 
 * [https://github.com/moment/moment/](https://github.com/moment/moment/)
 
-### 18.时间
+### 18.独立组件
 
 * [https://github.com/iamkun/dayjs](https://github.com/iamkun/dayjs)
 
