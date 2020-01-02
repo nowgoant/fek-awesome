@@ -1,4 +1,4 @@
-## 微信H5坑：
+## 微信H5：
 
 * onShareAppMessage 钩子函数不能加 async 修饰
 
