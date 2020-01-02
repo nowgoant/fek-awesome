@@ -35,7 +35,7 @@
   * [Git](git.md)
 * [Chrome](chrome.md)
 * [UI组件库](uizu-jian-ku.md)
-* [小程序](xiao-cheng-xu.md)
+* [微信](xiao-cheng-xu.md)
 * [docker](docker.md)
 * [Web Worker](web-worker.md)
 * [Babel](babel.md)
