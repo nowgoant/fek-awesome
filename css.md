@@ -35,7 +35,7 @@
 
 ### 5.资源
 
-* [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
+* [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) CSS tricks for web developers~
 
 
 
