@@ -35,7 +35,7 @@
 
 ### 5.资源
 
-* [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) CSS tricks for web developers~
+* [https://github.com/l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)CSS tricks for web developers~
 * 要去大厂应该把这些面试题搞\(bei\)懂\(hui\) [https://juejin.im/post/5e1535c6e51d454165777744?utm\_source=gold\_browser\_extension](https://juejin.im/post/5e1535c6e51d454165777744?utm_source=gold_browser_extension)
 * 一个合格\(优秀\)的前端都应该阅读这些文章 [https://juejin.im/post/5d387f696fb9a07eeb13ea60](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 
