@@ -1,11 +1,7 @@
 ### 1.Animate
 
-_**国内篇**_
-
 * [Css3动画属性总汇](http://css3lib.alloyteam.com/uilib/animation/demo1/index.html)
 * [CSS3 UI 库](http://css3lib.alloyteam.com/): Tencent Alloyteam
-
-_**国外篇**_
 
 * [Animate.css](https://github.com/daneden/animate.css)
   :A cross-browser library of CSS animations. As easy to use as an easy thing.
