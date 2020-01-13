@@ -5,8 +5,8 @@
 
 * [Animate.css](https://github.com/daneden/animate.css) A cross-browser library of CSS animations. As easy to use as an easy thing.
 
-* [bounce.js](https://github.com/tictail/bounce.js)
-  : Create beautiful CSS3 powered animations in no time
+* [bounce.js](https://github.com/tictail/bounce.js) Create beautiful CSS3 powered animations in no time
+
 * [magic](https://github.com/miniMAC/magic)
   CSS3 Animations with special effects
 * [font-awesome-animation](https://github.com/l-lin/font-awesome-animation)
