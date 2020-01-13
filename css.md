@@ -31,8 +31,7 @@
 
 ### 4.Framework
 
-* [Materialize](https://github.com/Dogfalo/materialize)
-  Materialize, a CSS Framework based on Material Design
+* [Materialize](https://github.com/Dogfalo/materialize) Materialize, a CSS Framework based on Material Design
 
 ### 
 
