@@ -4,6 +4,7 @@
 * [lodash](https://github.com/lodash/lodash)A modern JavaScript utility library delivering modularity, performance, & extras
 * [PM2](https://github.com/Unitech/pm2) Node.js Production Process Manager with a built-in Load Balancer
 * [nodemon](http://nodemon.io/) 在文件发生改变时自动重启Node.js时很有用
+* 文件上传 [https://juejin.im/post/5dff8a26e51d4558105420ed?utm\_source=gold\_browser\_extension\#heading-25](https://juejin.im/post/5dff8a26e51d4558105420ed?utm_source=gold_browser_extension#heading-25)
 
 ### Express
 
