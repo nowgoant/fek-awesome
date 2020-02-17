@@ -33,7 +33,8 @@
 
 * [IOS](/ios.md)
 
-* 
+* [游戏](/you-xi.md)
+
 * [其他](/qi-ta.md)
 
 ## 本文档的[Github地址](https://github.com/nowgoant/fek-awesome)

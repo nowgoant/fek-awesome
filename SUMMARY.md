@@ -44,5 +44,6 @@
 * [Node.js 爬虫](nodejs-pa-chong.md)
 * [Flutter](flutter.md)
 * [IOS](ios.md)
-* 游戏
+* [游戏](you-xi.md)
+* [Cocos Creator](cocos-creator.md)
 
