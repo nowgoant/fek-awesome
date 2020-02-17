@@ -35,7 +35,7 @@
 
 * [其他](/qi-ta.md)
 
-## [招聘](https://nowgoant.gitbooks.io/d2notes/zhao-pin.html)
+
 
 ## 本文档的[Github地址](https://github.com/nowgoant/fek-awesome)
 
