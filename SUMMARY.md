@@ -46,5 +46,4 @@
 * [IOS](ios.md)
 * [游戏](you-xi.md)
   * [cocos creator](you-xi/cocos-creator.md)
-* [Cocos Creator](cocos-creator.md)
 
