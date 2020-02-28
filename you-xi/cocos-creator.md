@@ -5,5 +5,7 @@
 
 * [Creator开源游戏、插件、教程、视频汇总](https://forum.cocos.org/t/creator/44782)[https://forum.cocos.org/t/creator/44782](https://forum.cocos.org/t/creator/44782)
 
+* [https://forum.cocos.org/t/creator/44782](https://forum.cocos.org/t/creator/44782)
+
 
 
