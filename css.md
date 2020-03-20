@@ -39,6 +39,7 @@
 * 要去大厂应该把这些面试题搞\(bei\)懂\(hui\) [https://juejin.im/post/5e1535c6e51d454165777744?utm\_source=gold\_browser\_extension](https://juejin.im/post/5e1535c6e51d454165777744?utm_source=gold_browser_extension)
 * 一个合格\(优秀\)的前端都应该阅读这些文章 [https://juejin.im/post/5d387f696fb9a07eeb13ea60](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 * 查看属性是否触发Reflow与Repaint [https://csstriggers.com/](https://csstriggers.com/)
+* 浏览器渲染原理 [http://taligarsiel.com/Projects/howbrowserswork1.htm](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
 
 
